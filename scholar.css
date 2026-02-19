@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+    background: fixed;
+    background-color:hsl(0,55%, 76%);
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: scroll;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
+section{
+    background: fixed;
+    margin: 20px;
+    padding:20px;
+    box-shadow: inset;
+    border-radius: 23px;
+}
+h2{
+    color: aqua;
+}
+table{
+    border: 2px solid;
+    padding: 20px;
+    text-align: center;
+}
+form input,form textarea{
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    background: fixed;
+    color: blue;
+    padding: 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+button :hover {
+    background: red;
+
+}
+    
+
